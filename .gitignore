@@ -49,4 +49,4 @@ po/*~
 rsconnect/
 
 # Ignored data
-ignoreddata/
+/ignoreddata/
